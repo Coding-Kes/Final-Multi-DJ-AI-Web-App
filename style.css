@@ -1,0 +1,37 @@
+
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 17px;
+    color: black;
+}
+
+.play
+{
+    width: 130px;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+canvas
+{
+    border: solid white 17px;
+    border-radius: 45px;
+    margin-top: 60px;
+}
+
+#song_name
+{
+    color: white;
+    width: 300px;
+    white-space: nowrap;
+    font-size: 19px;
+    font-weight: bold;
+}
